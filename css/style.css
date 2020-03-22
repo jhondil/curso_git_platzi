@@ -6,6 +6,18 @@ body{
     margin: 0;
     padding: 0px;
 }
+.cabecera{
+    background: blue;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-size: 2em;
+}
+.cabecera .tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.5em;
+}
 
 .container{
     width: 60%;
