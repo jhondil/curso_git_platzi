@@ -3,3 +3,4 @@ En este curso e aprendido maravillas de cosas, es el primer de todos y me siento
 
 creado por jhonatan ibarra
 creado en marzo por el coronavirus
+este curso estuvo de lo mejor
